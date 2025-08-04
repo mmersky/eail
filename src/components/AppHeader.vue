@@ -11,8 +11,8 @@
           <h1 class="text-xl font-semibold text-white">E&A Innovation Lab</h1>
         </div>
         <div class="flex space-x-6">
-          <span class="text-[rgb(236,0,140)] hover:text-[rgb(236,0,140)] cursor-pointer">About</span>
-          <span class="text-[rgb(236,0,140)] hover:text-[rgb(236,0,140)] cursor-pointer">Submit Idea</span>
+          <!-- <span class="text-[rgb(236,0,140)] hover:text-[rgb(236,0,140)] cursor-pointer">About</span> -->
+          <!-- <span class="text-[rgb(236,0,140)] hover:text-[rgb(236,0,140)] cursor-pointer">Submit Idea</span> -->
         </div>
       </div>
     </div>
